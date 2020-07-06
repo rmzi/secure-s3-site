@@ -39,7 +39,7 @@ Temporary Items
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
+terraform.tfvars
 
 # Crash log files
 crash.log
